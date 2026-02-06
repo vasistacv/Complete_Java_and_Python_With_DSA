@@ -25,7 +25,7 @@ public class Day03_EvenOdd {
      * 2. Use modulo operator (%) to find remainder when divided by 2
      * 3. If remainder is 0, it's even. Otherwise, it's odd.
      * 
-     * Time Complexity: O(1) - Just one operation
+     * Time Complexity: O(1) - Just one modulo operation
      * Space Complexity: O(1) - Only storing one integer
      */
     public static void main(String[] args) {
