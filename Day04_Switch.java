@@ -1,7 +1,7 @@
 /**
  * Day 04: Switch Case Button Selector
  * Same button problem but using switch instead of if-else.
- * Switch is cleaner when you have multiple exact value checks.
+ * Switch statement is cleaner when you have multiple exact value checks.
  */
 
 import java.util.*;
