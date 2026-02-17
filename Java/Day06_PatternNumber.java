@@ -6,7 +6,7 @@
 
 import java.util.*;
 
-public class PatternNumber {
+public class Day06_PatternNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the value of n:");
