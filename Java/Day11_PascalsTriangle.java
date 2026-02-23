@@ -2,6 +2,7 @@
 /**
  * Day 11: Pascal's Triangle
  * Printing Pascal's Triangle using binomial coefficients.
+ * It's actually a pretty cool math trick to calculate the numbers!
  */
 import java.util.*;
 
