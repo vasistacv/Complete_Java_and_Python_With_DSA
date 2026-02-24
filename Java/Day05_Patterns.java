@@ -1,7 +1,7 @@
 
 /**
  * Day 05: Star Pattern
- * Printing rectangle of stars using nested loops.
+ * Printing a rectangle of stars using nested loops.
  */
 
 import java.util.*;
