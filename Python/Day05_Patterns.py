@@ -1,6 +1,6 @@
 """
 Day 05: Star Pattern
-Printing rectangle of stars using nested loops.
+Printing a rectangle of stars using nested loops.
 """
 
 n = int(input("Enter the number of rows:"))
