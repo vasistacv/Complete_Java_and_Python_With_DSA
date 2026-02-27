@@ -1,6 +1,6 @@
 """
 Day 04: Compare Two Numbers
-Basic comparison to check which number is greater or if they're equal.
+Simple comparison to check which number is greater or if they're equal.
 """
 
 a = int(input("Enter the value of a:"))
