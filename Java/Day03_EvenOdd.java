@@ -5,7 +5,7 @@
  * Problem: Check if a given number is even or odd.
  * The logic: If n % 2 == 0, it's even. Otherwise, it's odd.
  * 
- * Why this matters: Understanding the modulo operator is fundamental.
+ * Why this matters: The modulo operator is fundamental.
  * It shows up everywhere - from array indexing to checking divisibility.
  * Simple problem but the concept is super important for DSA.
  * 
