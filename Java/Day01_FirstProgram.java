@@ -6,7 +6,7 @@
  * Google in 4 months.
  * Code is poetry, but sometimes it's just printing stuff to make sure the
  * compiler isn't mad at me.
- * Let's grind! Time to conquer DSA.
+ * Let's grind! Time to conquer DSA and get that dream job.
  */
 class Day01_FirstProgram {
     /**
